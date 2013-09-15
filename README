@@ -1,0 +1,6 @@
+This script will extract all countries which the United States Postal Service
+(USPS) will ship to. This was created because the list on Postal Explorer
+contains duplicates and is difficult to parse.
+
+Feel free to send me updates or pull requests. Enjoy!
+- Taj <tajmorton@gmail.com>
